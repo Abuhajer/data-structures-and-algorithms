@@ -126,8 +126,6 @@ const gruffaloCrumble = {
 };
 
 
-
-
 const listFoods = (recipe) => {
   let result = [];
   let grocerylist = recipe['ingredients'];
